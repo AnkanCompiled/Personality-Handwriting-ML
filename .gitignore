@@ -1,1 +1,6 @@
-images
+images/*
+!images/000-0.png
+!images/001-0.png
+!images/002-0.png
+!images/003-0.png
+!images/004-0.png
